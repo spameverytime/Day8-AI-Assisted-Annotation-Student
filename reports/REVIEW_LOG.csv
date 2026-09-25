@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở góc dưới phải,added,Chỉ khoanh phần đuôi còn nhìn thấy trong ảnh theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,vệt đèn trên mặt đường,deleted,Vệt sáng phản chiếu không phải xe nên xóa khung theo GUIDELINE_LABEL.md
+1,frame_0182.jpg,xe tối sát mép trái,edited,Kéo khung ôm sát thân xe kể cả đèn không để lệch biên theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe con đi ở làn giữa,accepted,Khung pre-label của AI đã bao trọn thân xe và đúng ranh giới theo GUIDELINE_LABEL.md

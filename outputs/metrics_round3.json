@@ -1,0 +1,45 @@
+{
+  "round": 3,
+  "model": "yolov8n fine-tune vong 1..3",
+  "base_model": "yolov8n.pt",
+  "n_train_images": 36,
+  "n_train_boxes": 513,
+  "epochs": 50,
+  "imgsz": 960,
+  "strategies": [
+    "uncertainty",
+    "uncertainty",
+    "uncertainty"
+  ],
+  "test": {
+    "images": 20,
+    "ref_boxes": 403,
+    "ref_ignored_tiny": 14,
+    "ap50": 0.8777,
+    "conf_thr": 0.25,
+    "tp": 170,
+    "fp": 8,
+    "fn": 233,
+    "precision": 0.9551,
+    "recall": 0.4218,
+    "f1": 0.5852,
+    "recall_by_size": {
+      "small": {
+        "recall": 0.0455,
+        "ref_boxes": 66
+      },
+      "medium": {
+        "recall": 0.4358,
+        "ref_boxes": 296
+      },
+      "large": {
+        "recall": 0.9268,
+        "ref_boxes": 41
+      }
+    }
+  },
+  "reference": "data/test/labels",
+  "runtime": "Tesla T4",
+  "student": "Phạm Xuân Duy-2A202602093",
+  "created": "2026-09-25T11:26:11"
+}

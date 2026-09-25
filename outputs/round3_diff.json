@@ -1,0 +1,112 @@
+{
+  "images": 12,
+  "match_iou": 0.5,
+  "accept_iou": 0.85,
+  "totals": {
+    "accepted": 73,
+    "edited": 0,
+    "deleted": 2,
+    "added": 22,
+    "prelabel_boxes": 75,
+    "final_boxes": 95,
+    "accept_rate": 0.9733
+  },
+  "per_image": {
+    "frame_0021.jpg": {
+      "accepted": 5,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 5,
+      "final_boxes": 5
+    },
+    "frame_0103.jpg": {
+      "accepted": 4,
+      "edited": 0,
+      "deleted": 0,
+      "added": 2,
+      "prelabel_boxes": 4,
+      "final_boxes": 6
+    },
+    "frame_0115.jpg": {
+      "accepted": 6,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 6,
+      "final_boxes": 6
+    },
+    "frame_0121.jpg": {
+      "accepted": 5,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 5,
+      "final_boxes": 5
+    },
+    "frame_0188.jpg": {
+      "accepted": 9,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 9,
+      "final_boxes": 9
+    },
+    "frame_0210.jpg": {
+      "accepted": 5,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 5,
+      "final_boxes": 5
+    },
+    "frame_0274.jpg": {
+      "accepted": 7,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 7,
+      "final_boxes": 7
+    },
+    "frame_0316.jpg": {
+      "accepted": 6,
+      "edited": 0,
+      "deleted": 0,
+      "added": 7,
+      "prelabel_boxes": 6,
+      "final_boxes": 13
+    },
+    "frame_0325.jpg": {
+      "accepted": 5,
+      "edited": 0,
+      "deleted": 0,
+      "added": 7,
+      "prelabel_boxes": 5,
+      "final_boxes": 12
+    },
+    "frame_0383.jpg": {
+      "accepted": 6,
+      "edited": 0,
+      "deleted": 2,
+      "added": 5,
+      "prelabel_boxes": 8,
+      "final_boxes": 11
+    },
+    "frame_0388.jpg": {
+      "accepted": 9,
+      "edited": 0,
+      "deleted": 0,
+      "added": 1,
+      "prelabel_boxes": 9,
+      "final_boxes": 10
+    },
+    "frame_0393.jpg": {
+      "accepted": 6,
+      "edited": 0,
+      "deleted": 0,
+      "added": 0,
+      "prelabel_boxes": 6,
+      "final_boxes": 6
+    }
+  }
+}

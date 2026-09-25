@@ -1,6 +1,6 @@
 # Báo cáo Lab Ngày 08: Học chủ động cho bộ phát hiện xe
 
-Họ và tên: ĐIỀN
+Họ và tên: PHẠM XUÂN DUY
 
 Công cụ gán nhãn đã dùng: ĐIỀN (AnyLabeling, CVAT, SAM hoặc sửa trực tiếp file nhãn)
 
